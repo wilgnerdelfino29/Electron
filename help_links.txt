@@ -1,0 +1,11 @@
+TUTORIAL
+https://www.youtube.com/watch?v=kN1Czs0m1SU
+
+ICONES
+http://www.iconarchive.com/show/real-vista-business-icons-by-iconshock/shopping-cart-icon.html
+
+MATERIALIZE
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+PACKAGER TUTORIAL
+https://www.christianengvall.se/electron-packager-tutorial/
